@@ -1,0 +1,83 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.header {
+    background-color: orange;
+    padding: 0px;
+    padding-left: 50px;
+}
+
+.pics ul li {
+    display: inline-block;
+    list-style: none;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+img {
+    height: 250px;
+}
+
+.pics2 ul li {
+    display: inline-block;
+    list-style: none;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.one {
+    border: 1px solid grey;
+}
+
+.one > p {
+    font-weight: bold;
+}
+
+.two {
+    border: 1px solid grey;
+}
+
+.two > p {
+    font-weight: bold;
+}
+
+.three {
+    border: 1px solid grey;
+}
+
+.three > p {
+    font-weight: bold;
+}
+
+.four {
+    border: 1px solid grey;
+}
+
+.four > p {
+    font-weight: bold;
+}
+
+.five {
+    border: 1px solid grey;
+}
+
+.five > p {
+    font-weight: bold;
+}
+
+.six {
+    border: 1px solid grey;
+}
+
+.six > p {
+    font-weight: bold;
+}
